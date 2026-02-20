@@ -1,16 +1,40 @@
-## Hi there 👋
+ Hi 👋 I'm Fistoz
 
-<!--
-**FISTOZ101/Fistoz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 Web Developer | Frontend Focused
 
-Here are some ideas to get you started:
+I'm a passionate web developer who loves building clean, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences and continuously improving my skills through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 About Me
+
+- 🌐 Focused on modern, responsive web design
+- 🛒 Built ecommerce and interactive quiz applications
+- 🎯 Always learning and improving
+- 💡 Passionate about UI/UX and clean code
+
+
+
+ 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Design
+
+
+
+ 📂 Featured Projects
+
+One Page Ecommerce
+A modern, responsive one-page ecommerce storefront designed for smooth user experience.
+
+ 🎮 ShapeShift Java Quiz
+An interactive quiz app where images dynamically transform based on user answers.
+
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/fistoz101
+⭐ Always open to collaboration and new opportunities!
